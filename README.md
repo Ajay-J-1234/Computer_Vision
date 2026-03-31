@@ -1,4 +1,4 @@
-# # Multi-CV Assistant: Air Canvas and Drowsiness Detector
+# Multi-CV Assistant: Air Canvas and Drowsiness Detector
 
 ## Overview
 This repository contains a Python application that uses a webcam to monitor user drowsiness and provides a virtual drawing interface capable of solving handwritten math equations.
